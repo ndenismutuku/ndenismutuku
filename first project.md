@@ -1,2 +1,0 @@
-- 👋 Hi, I’m denismutuku
-- 👀 I’m interested in GIThub.
